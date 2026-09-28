@@ -1,4 +1,3 @@
-# EV-Charging-Network-Analytics-Dashboard-Power-BI
 
 # **EV Charging Network Analytics Dashboard | Power BI**
 
